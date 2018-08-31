@@ -22,7 +22,7 @@
     "browserify": "^16.2.2",
     "buffer": "^5.0.5",
     "decompress": "^4.0.0",
-    "eth-lib": "^0.1.26",
+    "eth-lib": "git+https://github.com/HaoLLL/eth-lib.git",
     "fs-extra": "^4.0.2",
     "got": "^7.1.0",
     "mime-types": "^2.1.16",
